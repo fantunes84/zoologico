@@ -1,0 +1,5 @@
+Simba;2;Macho;Leao
+Nala;2;Fêmea;Leao
+Ed;6;Macho;Leao
+Rafik;8;Macho;Leao
+Zazu;6;Macho;Leao
